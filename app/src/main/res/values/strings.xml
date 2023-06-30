@@ -4,7 +4,7 @@
     <string name="text_initiation">Início</string>
     <string name="text_menu">Menu</string>
     <string name="text_register">Cadastrar</string>
-    <string name="text_name">Nome completo</string>
+    <string name="textName">Nome completo</string>
     <string name="text_ex">Ex. Maria da Silva</string>
     <string name="text_cpf">CPF</string>
     <string name="mask_cpf">000.000.000-00</string>
